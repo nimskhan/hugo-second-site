@@ -2,6 +2,8 @@
 description = "Contact us on phone number below"
 featured_image = ""
 title = "Contact Us"
+[menu.main]
+weight = 3
 
 +++
 {{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}

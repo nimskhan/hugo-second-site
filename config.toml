@@ -1,40 +1,34 @@
 baseURL = "https://hugo-second-site.vercel.app/"
 languageCode = "en-us"
-title = "SereniTea"
 theme = "ananke"
-
+title = "SereniTea"
+[[menu.main]]
+identifier = "products"
+name = "products"
+pre = "<i class='fa fa-heart'></i>"
+url = "/products/"
+weight = 1
+[[menu.main]]
+identifier = "about"
+name = "about"
+pre = "<i class='fa fa-heart'></i>"
+url = "/about/"
+weight = 2
 [params]
-  favicon = ""
-  site_logo = ""
-  description = "The last theme you'll ever need. Maybe."
-  facebook = ""
-  twitter = "https://twitter.com/GoHugoIO"
-  instagram = ""
-  youtube = ""
-  github = ""
-  gitlab = ""
-  linkedin = ""
-  mastodon = ""
-  slack = ""
-  stackoverflow = ""
-  rss = ""
-  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
-  background_color_class = "bg-black"
-  featured_image = "/images/feature-image.jpg"
-  recent_posts_number = 2
-
-  [menu]
-
-  [[menu.main]]
-    identifier = "about"
-    name = "about"
-    pre = "<i class='fa fa-heart'></i>"
-    url = "/about/"
-    weight = -100
-
-    [[menu.main]]
-    identifier = "products"
-    name = "products"
-    pre = "<i class='fa fa-heart'></i>"
-    url = "/products/"
-    weight = -110
+background_color_class = "bg-black"
+description = "The last theme you'll ever need. Maybe."
+facebook = ""
+favicon = ""
+featured_image = "/images/feature-image.jpg"
+github = ""
+gitlab = ""
+instagram = ""
+linkedin = ""
+mastodon = ""
+recent_posts_number = 2
+rss = ""
+site_logo = ""
+slack = ""
+stackoverflow = ""
+twitter = "https://twitter.com/GoHugoIO"
+youtube = ""
