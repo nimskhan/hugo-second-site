@@ -1,9 +1,8 @@
 ---
-title: "Echo Friendly Cars Post"
-date: 2020-10-17T22:50:22+05:00
-draft: true
----
+title: Echo Friendly Cars Post
+date: 2020-10-17T22:50:22.000+05:00
 
+---
 # History
 
 Hello this is my frist website using logo. Dedicated to cars.
@@ -14,5 +13,3 @@ Solve everything with Cars.
 
 * First Item
 * Second Item
-
-
