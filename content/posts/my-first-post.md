@@ -1,7 +1,16 @@
 ---
-title: 'My First Post'
-date: 2019-07-18T17:18:05+01:00
-draft: false
+title: "My First Post"
+date: 2020-10-17T22:37:45+05:00
+draft: true
 ---
 
-# Hugo on Vercel
+# History
+
+Hello this is my frist website using logo. Dedicated to sereniTea.
+
+sereniTea has flaforful aromatic tea prodcts. 
+
+Solve everything with Tea.
+
+* First Item
+* Second Item
